@@ -9,11 +9,11 @@ In-game overlay for FPS, temperatures, latency and HUD widgets.
 </div>
 
 
-An overlay that sits on top of whatever you play and shows what you would alt-tab for, nothing
-more unless you ask.
+An overlay on top of whatever you play, showing what you would alt-tab for.
 
-- **Performance**: FPS, CPU and GPU load, temperatures, latency
-- **HUD widgets**: timers, counters and notes, on hotkeys
-- **Streaming**: chat, alerts, now playing, OBS
-
-Works with DirectX, OpenGL and Vulkan, in full screen or windowed, and finds the game by itself.
+| | |
+|---|---|
+| **Performance** | FPS, CPU and GPU load, temperatures, latency |
+| **HUD widgets** | Timers, counters and notes, on hotkeys |
+| **Streaming** | Chat, alerts, now playing, OBS |
+| **Works with** | DirectX, OpenGL, Vulkan; full screen or windowed |
